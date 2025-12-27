@@ -1,0 +1,231 @@
+{
+  "settings": {
+    "name": "UTKARSH PATEL",
+    "title": "Product Management Intern",
+    "location": "India",
+    "summary": "Experienced Product Management Intern with a proven track record in product development, strategy, and scaling successful ventures.",
+    "profileImage": "https://t4.ftcdn.net/jpg/04/31/64/75/360_F_431647519_usrbQ8Z983hTYe8zgA7t1XVc5fEtqcpa.jpg"
+  },
+  "sections": {
+    "hero": {
+      "enabled": true,
+      "ctaButtons": [
+        {
+          "text": "Get In Touch",
+          "url": "mailto:Patelutkarsh921@gmail.com"
+        },
+        {
+          "text": "View Resume",
+          "url": "#"
+        }
+      ]
+    },
+    "about": {
+      "enabled": true,
+      "skills": {
+        "enabled": true,
+        "title": "Technical Skills",
+        "items": [
+          "Agile/Scrum",
+          "Product Roadmapping",
+          "A/B Testing",
+          "User Journey Mapping",
+          "PRD Writing",
+          "GTM Strategy",
+          "JIRA",
+          "Confluence",
+          "Asana",
+          "Figma (Prototyping)",
+          "Google Analytics",
+          "Mixpanel",
+          "Power Bi",
+          "SQL",
+          "Google Search Console"
+        ]
+      }
+    },
+    "experience": {
+      "enabled": true,
+      "title": "Work Experience",
+      "items": [
+        {
+          "company": "Ashoka Builders (ASBL)",
+          "position": "Product Management Intern (PPO Offered)",
+          "period": "Aug 2025 - Present",
+          "description": "Owned the roadmap for a new B2B Budgeting Module, reducing budget variance tracking errors by 25%. Collaborated on a real-time scheduling engine, improving project timeline accuracy by 15%. Designed and shipped an automated invoice rejection workflow, reducing accounts payable processing time by 12 hours per week. Revamped user onboarding flow, increasing Day-1 activation rates from 60% to 85%. Led end-to-end digitization of QC process, reducing inspection turnaround time by 20%."
+        },
+        {
+          "company": "The Internet Folks (Levo.so)",
+          "position": "Product Management Intern",
+          "period": "Jan 2025 - June 2025",
+          "description": "Managed agile development lifecycle for Vudio.ai, delivering MVP 2 weeks ahead of schedule. Owned PRD for core engagement features of an AI powered CMS, launching a Smart Connection algorithm that personalized content recommendations, driving an 18% increase in user retention. Acted as primary bridge between design and engineering, reducing design to dev handoff friction and cutting QA bug reports by 20%."
+        },
+        {
+          "company": "Lovedit.net",
+          "position": "Founder",
+          "period": "Dec 2022 - Jan 2025",
+          "description": "Founded and bootstrapped a media content platform to 100,000+ impressions and 1,000+ app downloads within 6 months. Negotiated and executed strategic acquisition of the platform by a private player in 2025 after demonstrating consistent 30% MoM user growth. Led the roadmap for the mobile app, prioritizing features based on user feedback, leading to a 4.5/5 star rating on launch."
+        },
+        {
+          "company": "The Product Folks (Insurjo '24)",
+          "position": "Product Management Fellow",
+          "period": "Jan 2024 - Apr 2024",
+          "description": "Conducted funnel analysis on a Matrimony App's registration flow, identified friction points and designed a streamlined 3-step onboarding process to boost conversion by 15%. Pivoted product strategy to explore a debate-to-date revenue model; designed a gamified matchmaking feature that increased average session time by 30%."
+        }
+      ]
+    },
+    "projects": {
+      "enabled": true,
+      "title": "Featured Projects",
+      "items": [
+        {
+          "title": "Vudio.ai (Shoppable Video)",
+          "description": "Managed the agile development lifecycle for an AI powered shoppable video tool, facilitating sprint planning for a team of 6 devs, delivering the MVP 2 weeks ahead of schedule.",
+          "tags": [
+            "AI",
+            "Video",
+            "Product Management"
+          ],
+          "previewUrl": "",
+          "repoUrl": ""
+        },
+        {
+          "title": "Levo.so Smart Connection Algorithm",
+          "description": "Owned the PRD for core engagement features of an AI powered CMS; launched a Smart Connection algorithm that personalized content recommendations, driving an 18% increase in user retention in Q1.",
+          "tags": [
+            "AI",
+            "CMS",
+            "User Engagement"
+          ],
+          "previewUrl": "",
+          "repoUrl": ""
+        },
+        {
+          "title": "Lovedit.net (Media Content Platform)",
+          "description": "Founded and bootstrapped a media content platform to 100,000+ impressions and 1,000+ app downloads within 6 months via organic SEO and content loops. Achieved a strategic acquisition in 2025.",
+          "tags": [
+            "Startup",
+            "SEO",
+            "Mobile App"
+          ],
+          "previewUrl": "",
+          "repoUrl": ""
+        }
+      ]
+    },
+    "education": {
+      "enabled": true,
+      "title": "Education",
+      "items": [
+        {
+          "institution": "Ramjas College, University of Delhi (Tier 1)",
+          "degree": "B.Com",
+          "period": "2025"
+        },
+        {
+          "institution": "Lucknow Public School, Lucknow",
+          "degree": "Class XII",
+          "period": "2022"
+        },
+        {
+          "institution": "Lucknow Public School, Lucknow",
+          "degree": "Class X",
+          "period": "2020"
+        }
+      ]
+    },
+    "achievements": {
+      "enabled": true,
+      "title": "Achievements & Certifications",
+      "items": [
+        {
+          "title": "Google Data Analytics Professional Certificate",
+          "description": "Certification from Google."
+        },
+        {
+          "title": "Product Analytics Micro Certification",
+          "description": "Certification from Product School."
+        },
+        {
+          "title": "Winner WIE & Tech Quiz",
+          "description": "Winner of a competition conducted by Maulana Azad National Institute of Technology (MANIT), Bhopal."
+        },
+        {
+          "title": "Winner in phenomenal magazine writing competition",
+          "description": "Awarded for excellence in magazine writing."
+        },
+        {
+          "title": "Dhandho Fellowship & Xartup Fellowship",
+          "description": "Awarded a fellowship focused on empowering student entrepreneurs with valuable grants and guidance from experienced entrepreneurs to launch and scale my startup venture."
+        },
+        {
+          "title": "Crypto currency & Investment Influencer (YouTube)",
+          "description": "Built a loyal audience of 3.5k+ subscribers and surpassed 1 million+ views in just one year by creating engaging content on cryptocurrency and investment strategies."
+        },
+        {
+          "title": "FinNomal Magazine Contributor University of Law",
+          "description": "Published an insightful article titled 'The Decline of Funding for Startups in India 2023,' demonstrating expertise in a relevant field."
+        },
+        {
+          "title": "Academic Achievement",
+          "description": "98.5%tiller in economics in CUET, 95.7%tiller in Business Studies in CUET, 95 score in Accountancy and Economics class 12."
+        }
+      ]
+    },
+    "contact": {
+      "enabled": true,
+      "title": "Contact",
+      "email": "Patelutkarsh921@gmail.com",
+      "phone": "+91-9260923393",
+      "location": "India"
+    },
+    "social": {
+      "enabled": true,
+      "items": [
+        {
+          "platform": "linkedin",
+          "url": "https://linkedin.com/in/username",
+          "icon": "linkedin"
+        },
+        {
+          "platform": "portfolio",
+          "url": "https://Utkarshnotes.com",
+          "icon": "globe"
+        }
+      ]
+    }
+  },
+  "navigation": {
+    "enabled": true,
+    "items": [
+      {
+        "name": "Home",
+        "url": "/"
+      },
+      {
+        "name": "About",
+        "url": "#about"
+      },
+      {
+        "name": "Projects",
+        "url": "#projects"
+      },
+      {
+        "name": "Experience",
+        "url": "#experience"
+      },
+      {
+        "name": "Education",
+        "url": "#education"
+      },
+      {
+        "name": "Contact",
+        "url": "#contact"
+      }
+    ]
+  },
+  "footer": {
+    "enabled": true,
+    "copyright": "© 2025 UTKARSH PATEL. All rights reserved."
+  }
+}
